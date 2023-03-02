@@ -1,0 +1,47 @@
+{
+  "menu": [
+    {
+      "img": "img/tabs/1.png",
+      "altImg": "usual",
+      "subs": "Plan 'Usual'",
+      "descr": "By connecting to the 'Usual' plan, you can watch or download up to ten movies and series per day. We remind you that 4k format movies and series are not played in the 'Usual' plan. We advise you to get the 'Premium' plan.",
+      "price": 10
+    },
+    {
+      "img": "img/tabs/2.jpg",
+      "altImg": "premium",
+      "subs": "Plan “Premium”",
+      "descr": "By connecting to the 'Premium' plan, you can watch or download up to a hundred movies and series per day. Unlike the 'Usual' plan, it is possible to watch movies and series in 4k format. We advise you to get the premium plan.",
+      "price": 15
+    },
+    {
+      "img": "img/tabs/3.jpg",
+      "altImg": "vip",
+      "subs": "Plan 'VIP'",
+      "descr": "By connecting to the 'VIP' plan, you can watch or download unlimited movies and series per day. Users connected to this plan can watch movies and series in 8k format. To wath 8k movies your internet speed should be 20MB/s",
+      "price": 20
+    }
+  ],
+  "request": [
+    {
+      "name": "sammi",
+      "phone": "+998-88-352-1214",
+      "id": 1
+    },
+    {
+      "name": "ffffffffffffffff",
+      "phone": "1111m",
+      "id": 2
+    },
+    {
+      "name": "fffffffffffffff",
+      "phone": "1111",
+      "id": 3
+    },
+    {
+      "name": "My fifth news",
+      "phone": "ssssssssssssss",
+      "id": 4
+    }
+  ]
+}
