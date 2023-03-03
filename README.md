@@ -6,7 +6,7 @@ This project is only desktop friendly! It is not responsive. All data comes from
 <h2>🚀 Demo</h2>
 
 [🔗 Website link](https://js-full-stack-serial-project.vercel.app/)
-<p>In demo website, project is not as it was, because json-server does not run on server! Please download project to see real project!</p>
+<p>In demo website, project is not as it was, because json-server does not run on that host! Please download project to see its all features!</p>
 <h2>Project Screenshots:</h2>
 
  <div style="display: flex; justify-content: space-between; width:100%;">
