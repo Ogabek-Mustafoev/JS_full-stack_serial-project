@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Serial-Project</h1>
 
 <p id="description">Full-Stack Mers-Project with HTML, CSS, JavaScript, Webpack and Json-Server. 
-This project is only desktop friendly! It is not responsive.</p>
+This project is only desktop friendly! It is not responsive. All data comes from db.json file and if user send feedback, it is written in db.json file</p>
 
 <h2>🚀 Demo</h2>
 
